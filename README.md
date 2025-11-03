@@ -1,6 +1,6 @@
-#  🚀 Cybersecurity Analyst Portfolio
+#  Omar Cybersecurity Portfolio
 
-Welcome to my **Cybersecurity Analyst Portfolio**! This repository showcases a variety of hands-on projects and real-world labs from cybersecurity certifications and personal studies. The portfolio highlights practical skills in **network defense**, **incident response**, **cloud security**, and **governance, risk, and compliance (GRC)**, demonstrating my technical expertise and problem-solving capabilities.
+In this repositorie I developed hands-on cybersecurity projects that focus on identifying and preventing security threats. My work includes building vulnerability assessment tools, testing web applications for weaknesses, and creating Python scripts to monitor network activity. These projects demonstrate my skills in ethical hacking, threat analysis, and secure coding. 
 
 ## 📂 About This Portfolio
 
