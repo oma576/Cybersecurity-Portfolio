@@ -4,7 +4,7 @@ In this repositorie I developed hands-on cybersecurity projects that focus on id
 
 ## 📂 About This Portfolio
 
-This portfolio features projects completed as part of multiple certification programs, including **Google**, **Microsoft**, and other self-directed learning, with tools such as:
+This portfolio features projects completed, and other self-directed learning, with tools such as:
 
 - **Wireshark**, **Nmap** — for network security and vulnerability analysis  
 - **Kali Linux**, **Metasploit** — for penetration testing and ethical hacking  
