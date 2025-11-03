@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Analyst Portfolio
+#  🚀 Cybersecurity Analyst Portfolio
 
 Welcome to my **Cybersecurity Analyst Portfolio**! This repository showcases a variety of hands-on projects and real-world labs from cybersecurity certifications and personal studies. The portfolio highlights practical skills in **network defense**, **incident response**, **cloud security**, and **governance, risk, and compliance (GRC)**, demonstrating my technical expertise and problem-solving capabilities.
 
@@ -44,22 +44,17 @@ The portfolio also covers practical case studies in **security operations center
 
 ## 📈 Learning & Certifications
 
-- **Google Cybersecurity Analyst Professional Certificate** (Coursera)
-- **Microsoft Cybersecurity Analyst Professional Certificate** (Coursera)
+- **AWS Certified Cloud practitioner** (Amazon)
 - Additional certifications and courses to be added as I continue to grow my skills.
 
 ---
 
-### 🧼 Personal Cyber Hygiene Audit Tool
-🔗 [GitHub Repo](https://github.com/Ecbrendan/Cybersecurity-Portfolio/tree/main/3MTT-Cybersecurity-Program/Personal%20Cyber%20Hygiene%20Audit%20Tool)  
-📄 A self-assessment Python tool for evaluating personal cybersecurity habits, generating scores, and tailored recommendations. Created as part of 3MTT Cybersecurity training.
 
----
 
 ## 🧑‍💻 Contact
 
-- LinkedIn: [Ediomo Brendan](https://linkedin.com/in/ediomobrendan)
-- Email: brendanediomo@gmail.com
+- LinkedIn: [Omar Swoope](linkedin.com/in/omar-s-06b300242)
+- Email: swooperealestate1@gmail.com
 
 Feel free to reach out if you have any questions or would like to discuss cybersecurity trends, methodologies, or career opportunities.
 
