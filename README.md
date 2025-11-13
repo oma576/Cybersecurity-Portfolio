@@ -73,4 +73,4 @@ This portfolio is continually evolving. New projects will be added regularly, as
 
 ## 💡 About Me
 
-I am passionate about **securing systems**, **automating workflows**, and **enhancing enterprise security**. With a strong foundation in both theoretical and practical cybersecurity skills, I am focused on helping organizations mitigate risks and defend against cyber threats. I’m eager to apply my knowledge to tackle challenging security issues in real-world environments.
+I’m a passionate cybersecurity student dedicated to exploring the ever-evolving world of digital security. I enjoy learning about ethical hacking, network defense, and incident response, and I’m constantly building hands-on skills through labs, projects, and capture-the-flag (CTF) challenges. My goal is to contribute to creating safer, more resilient systems while growing into a well-rounded cybersecurity professional.
