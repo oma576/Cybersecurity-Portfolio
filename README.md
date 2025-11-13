@@ -73,4 +73,4 @@ This portfolio is continually evolving. New projects will be added regularly, as
 
 ## 💡 About Me
 
-I’m a passionate cybersecurity student dedicated to exploring the ever-evolving world of digital security. I enjoy learning about ethical hacking, network defense, and incident response, and I’m constantly building hands-on skills through labs, projects, and capture-the-flag (CTF) challenges. My goal is to contribute to creating safer, more resilient systems while growing into a well-rounded cybersecurity professional.
+I’m a passionate cybersecurity student dedicated to exploring the ever-evolving world of digital security. I enjoy learning about ethical hacking, network defense, and incident response, and I’m constantly building hands-on skills through labs,and projects. My goal is to contribute to creating safer, more resilient systems while growing into a well-rounded cybersecurity professional.
